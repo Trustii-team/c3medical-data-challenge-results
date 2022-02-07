@@ -1,3 +1,5 @@
+![trustii logo](/images/HeroImage.png)
+
 Vous trouverez sur ce repo les notebooks et témoignages des lauréats du premier data challenge inter-universités au Maroc.
 
 Ce challenge a été hosté par la plateforme trustii.io (https://www.trustii.io)
@@ -7,6 +9,8 @@ Ce challenge a été hosté par la plateforme trustii.io (https://www.trustii.io
 Ce challenge, à titre éducatif, a pour but l'exploration des méthodes de machine learning dans le monde de la santé. Ce challenge a été sponsorisé par la société C3Medical (https://www.c3medical.com)
 
 Ce challenge a été lancé en collaboration avec L'Université Cadi Ayyad Marrakech (UCA), l'Université Ibn Zohr Agadir (UIZ), l'Université Soultane Moulay Slimane Beni Mellal (USMS) et l'Université Sidi Mohamed Ben Abdellah Fès (USMBA) sous le thème « l’IA et l’Entreprise Marocaine »
+
+![illustration](/images/data-challenge-c3medical2.png)
 
 # Source des datasets :
 * Davide Chicco, Giuseppe Jurman: Machine learning can predict survival of patients with heart failure from serum creatinine and ejection fraction alone. BMC Medical Informatics and Decision Making 20, 16 (2020).
